@@ -7,7 +7,7 @@ export const getEmployees = async (req,res) => {
 }
 
 //post
-export const createEmployees = (req,res) => res.send('creandro empleados')
+export const createEmployees = (req,res) => res.send('creandro empleados 2')
 
 //put
 export const updateEmployees = (req,res) => res.send('actualizando empleados')
